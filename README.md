@@ -4,5 +4,5 @@ Firewall rules management through a web interface made with python and flask usi
 
 # Tools used
 
-    -Pyton
+    -Python
     -Flask
